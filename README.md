@@ -1,6 +1,6 @@
-> concordia.ca webpage crawler, index builder, and queryer
->
-> Searches for pages related to covid and sustainability
+concordia.ca webpage crawler, index builder, and queryer
+
+Searches for pages related to covid and sustainability
 
 # Requirements 
 * bs4
@@ -9,7 +9,7 @@
 * protego
 
 # Execution
-python P4.py
+> python P4.py
 
 # Outputs
 * blocks/      <-- The blocks from the SPIMI index building process
