@@ -1,0 +1,249 @@
+------------------------------------------------------------------------------------------------------------------------
+Which researchers at Concordia worked on COVID 19-related research?
+------------------------------------------------------------------------------------------------------------------------
+query: 'researcher covid-19'
+	BM25
+		  6.495 https://www.concordia.ca/campus-life/safety/coronavirus/case.html
+		  6.430 https://www.concordia.ca/library/guides/COVID19/resources.html
+		  6.421 https://www.concordia.ca/research/aging/coronavirus/publications.html
+		  6.335 https://www.concordia.ca/coronavirus.html?utm_source=redirect&utm_campaign=covid19info
+		  6.286 https://www.concordia.ca/cunews/offices/provost/health/topics/mental-health/mental-health-covid-19.html?c=/health/topics/mental-health
+		  6.244 https://www.concordia.ca/campus-life/safety/coronavirus.html
+		  6.187 https://www.concordia.ca/cunews/main/stories/2020/05/19/how-concordia-is-archiving-its-web-material-related-to-covid-19.html?rootnav=news/stories
+		  6.136 https://www.concordia.ca/cunews/main/stories/2020/05/19/how-concordia-is-archiving-its-web-material-related-to-covid-19.html?c=/offices/archives/news
+		  6.121 https://www.concordia.ca/cunews/offices/vprgs/sgs/public-scholars-19/2020/04/14/micro-scale-technology-at-war-with-micro-scale-foe.html
+		  6.107 https://www.concordia.ca/cuevents/offices/vprgs/perform/2020/10/09/special-perform-colloquium--research-exploring-aging-behaviors-confinement-and-dating.html?c=research/perform
+		  6.072 https://www.concordia.ca/coronavirus/return-to-campus/access.html
+		  6.070 https://www.concordia.ca/cunews/artsci/2020/04/22/how-the-covid-19-crisis-transformed-a-concordia-health-course.html?c=artsci/applied-human-sciences/news
+		  6.068 https://www.concordia.ca/news/stories/2020/09/15/global-covid-19-study-finds-a-strong-link-between-health-messaging-and-behaviour.html?c=/coronavirus
+		  6.052 https://www.concordia.ca/cunews/artsci/2020/04/22/how-the-covid-19-crisis-transformed-a-concordia-health-course.html?c=/artsci/news
+		  6.029 https://www.concordia.ca/cuevents/offices/vprgs/perform/2020/10/09/special-perform-colloquium--research-exploring-aging-behaviors-confinement-and-dating.html
+	TF-IDF
+		 11.738 https://www.concordia.ca/campus-life/safety/coronavirus.html
+		 11.634 https://www.concordia.ca/campus-life/safety/coronavirus/case.html
+		 11.051 https://www.concordia.ca/sgs/covid-19.html
+		 11.051 https://www.concordia.ca/library/guides/COVID19/resources.html
+		 10.132 https://www.concordia.ca/coronavirus.html?utm_source=redirect&utm_campaign=covid19info
+		  9.741 https://www.concordia.ca/cunews/offices/vprgs/sgs/public-scholars-19/2020/04/14/micro-scale-technology-at-war-with-micro-scale-foe.html
+		  9.741 https://www.concordia.ca/research/lifestyle-addiction/news/newsletter.html
+		  9.741 https://www.concordia.ca/cunews/offices/provost/health/topics/mental-health/mental-health-covid-19.html?c=/health/topics/mental-health
+		  9.522 https://www.concordia.ca/cunews/main/stories/2020/04/22/this-earth-day-6-concordians-discuss-the-question-of-sustainability-under-covid-19.html?rootnav=news/stories
+		  9.522 https://www.concordia.ca/cunews/main/stories/2020/04/22/this-earth-day-6-concordians-discuss-the-question-of-sustainability-under-covid-19.html?c=artsci/loyola-college-diversity-sustainability/news/archive
+		  9.522 https://www.concordia.ca/cunews/main/stories/2020/04/22/this-earth-day-6-concordians-discuss-the-question-of-sustainability-under-covid-19.html?c=artsci/loyola-college-diversity-sustainability/news
+		  9.522 https://www.concordia.ca/cunews/main/stories/2020/04/22/this-earth-day-6-concordians-discuss-the-question-of-sustainability-under-covid-19.html?c=/artsci/news
+		  9.522 https://www.concordia.ca/cunews/main/stories/2020/05/19/how-concordia-is-archiving-its-web-material-related-to-covid-19.html?rootnav=news/stories
+		  9.522 https://www.concordia.ca/cunews/main/stories/2020/05/19/how-concordia-is-archiving-its-web-material-related-to-covid-19.html?c=/offices/archives/news
+		  9.522 https://www.concordia.ca/cunews/main/stories/2020/04/22/this-earth-day-6-concordians-discuss-the-question-of-sustainability-under-covid-19.html?c=/artsci/biology/news/archive
+
+query: 'researcher coronavirus'
+	BM25
+		  5.212 https://www.concordia.ca/library/guides/COVID19/general-information.html
+		  4.625 https://www.concordia.ca/cunews/artsci/loyola-sustainability/2020/10/13/covid-garden.html?c=/coronavirus
+		  4.623 https://www.concordia.ca/cunews/artsci/azrieli/2020/11/16/institute-director-gave-a-talk-on-covid-s-affect-on-israel.html?c=/coronavirus
+		  4.476 https://www.concordia.ca/news/stories/2020/11/02/concordia-researchers-build-web-based-tool-to-reduce-risk-of-indoor-sars-cov2-transmission.html?c=/coronavirus
+		  4.463 https://www.concordia.ca/cuevents/offices/provost/fourth-space/programming/2020/04/22/spreading-conspiracy--defiant-churches-in-the-time-of-coronaviru.html
+		  4.453 https://www.concordia.ca/coronavirus/students/tuition-fees.html
+		  4.392 https://www.concordia.ca/cunews/main/stories/2020/11/11/extended-holiday-break-and-new-dates-for-the-winter-2021-term.html?c=/coronavirus
+		  4.382 https://www.concordia.ca/cunews/main/stories/2020/10/06/new-limits-to-on-campus-activities-as-of-october-8.html?c=/coronavirus
+		  4.346 https://www.concordia.ca/cunews/main/stories/2020/09/28/what-montreals-red-zone-covid-19-alert-means-for-concordia.html?c=/coronavirus
+		  4.346 https://www.concordia.ca/cunews/main/items/2020/03/25/Ask-Our-Experts.html?c=news/media-relations
+		  4.345 https://www.concordia.ca/cunews/main/items/2020/03/25/Ask-Our-Experts.html?c=news/concordia-in-the-news/ask-an-expert
+		  4.312 https://www.concordia.ca/research/neuroscience/research/researchers.html
+		  4.260 https://www.concordia.ca/coronavirus/return-to-campus/access.html
+		  4.259 https://www.concordia.ca/research/apprentissage-performance/equipe/membres.html
+		  4.250 https://www.concordia.ca/research/learning-performance/people/members.html
+	TF-IDF
+		  7.738 https://www.concordia.ca/library/guides/COVID19/general-information.html
+		  7.657 https://www.concordia.ca/students/gradproskills/about/catalogue.html
+		  7.579 https://www.concordia.ca/cunews/offices/vprgs/sgs/public-scholars/2017/06/28/epistemological-violence.html
+		  7.579 https://www.concordia.ca/research/apprentissage-performance/equipe/membres.html
+		  7.412 https://www.concordia.ca/research/learning-performance/people/members.html
+		  6.914 https://www.concordia.ca/research/neuroscience/research/researchers.html
+		  6.541 https://www.concordia.ca/cunews/main/items/2020/03/25/Ask-Our-Experts.html?c=news/media-relations
+		  6.541 https://www.concordia.ca/cunews/main/items/2020/03/25/Ask-Our-Experts.html?c=news/concordia-in-the-news/ask-an-expert
+		  6.533 https://www.concordia.ca/artsci/cissc/phd-humanities/student-profiles.html
+		  6.387 https://www.concordia.ca/news/topic.html?topic=topics:research_subjects/stem_sights
+		  6.227 https://www.concordia.ca/cunews/offices/vprgs/sgs/public-scholars/2017/08/15/to-report-or-not-to-report.html
+		  6.053 https://www.concordia.ca/artsci/scpa/quescren/researchers/Researcher-directory.html
+		  5.859 https://www.concordia.ca/artsci/geography-planning-environment/student-life/career-options.html
+		  5.859 https://www.concordia.ca/students/gradproskills/workshops.html
+		  5.859 https://www.concordia.ca/news/topic.html?topic=topics:press-release
+
+
+------------------------------------------------------------------------------------------------------------------------
+Which departments at Concordia have research in environmental issues, sustainability, energy and water conservation?
+------------------------------------------------------------------------------------------------------------------------
+query: 'faculty environment sustainability energy water'
+	BM25
+		 16.720 https://www.concordia.ca/ginacody/building-civil-environmental-eng/faculty.html?fpid=fuzhan-nasiri
+		 13.539 https://www.concordia.ca/artsci/research/loyola-sustainability/people.html
+		 13.172 https://www.concordia.ca/ginacody/building-civil-environmental-eng/faculty.html?fpid=khaled-galal
+		 13.114 https://www.concordia.ca/faculty/fuzhan-nasiri.html
+		 11.378 https://www.concordia.ca/faculty/chunjiang-an.html
+		 11.369 https://www.concordia.ca/academics/graduate/calendar/current/encs/engineering-courses.html
+		 10.993 https://www.concordia.ca/research/zero-energy-building/research/publications.html
+		  9.884 https://www.concordia.ca/artsci/loyola-college-diversity-sustainability/Sustainability-and-the-climate-crisis/current-topics.html
+		  8.328 https://www.concordia.ca/artsci/journalism/research/investigative-journalism/projects/tainted-water/water-coverage.html
+		  8.325 https://www.concordia.ca/artsci/journalism/research/journalisme-d-enquete/projets/eaux-contaminees/couverture-mediatique.html
+		  8.264 https://www.concordia.ca/cunews/main/stories/2016/03/21/world-water-day-govind-gopakumar-why-water-matters-worldwide.html?c=/ginacody/research/spnet/news
+		  8.263 https://www.concordia.ca/cunews/main/stories/2016/03/21/world-water-day-govind-gopakumar-why-water-matters-worldwide.html?c=/news/topic
+		  8.263 https://www.concordia.ca/cunews/main/stories/2016/03/21/world-water-day-govind-gopakumar-why-water-matters-worldwide.html?rootnav=news/stories
+		  8.256 https://www.concordia.ca/artsci/loyola-college-diversity-sustainability/programs/courses/SustainabilityMinorCourses.html
+		  8.174 https://www.concordia.ca/cunews/main/stories/2013/06/12/refreshing-water-policy.html?c=/news/authors/tom-peacock
+	TF-IDF
+		 37.565 https://www.concordia.ca/academics/graduate/calendar/current/encs/engineering-courses.html
+		 36.303 https://www.concordia.ca/ginacody/building-civil-environmental-eng/faculty.html?fpid=fuzhan-nasiri
+		 28.768 https://www.concordia.ca/artsci/research/loyola-sustainability/people.html
+		 27.343 https://www.concordia.ca/research/zero-energy-building/research/publications.html
+		 25.351 https://www.concordia.ca/faculty/fuzhan-nasiri.html
+		 24.826 https://www.concordia.ca/ginacody/faculty/theodore-stathopoulos.html
+		 24.563 https://www.concordia.ca/ginacody/building-civil-environmental-eng/faculty.html?fpid=khaled-galal
+		 23.333 https://www.concordia.ca/faculty/chunjiang-an.html
+		 21.646 https://www.concordia.ca/faculty/theodore-stathopoulos.html
+		 18.818 https://www.concordia.ca/artsci/journalism/research/investigative-journalism/projects/tainted-water/water-coverage.html
+		 18.741 https://www.concordia.ca/artsci/journalism/research/journalisme-d-enquete/projets/eaux-contaminees/couverture-mediatique.html
+		 18.672 https://www.concordia.ca/artsci/loyola-college-diversity-sustainability/Sustainability-and-the-climate-crisis/current-topics.html
+		 17.330 https://www.concordia.ca/academics/undergraduate.html
+		 16.888 https://www.concordia.ca/artsci/loyola-college-diversity-sustainability/programs/courses/SustainabilityMinorCourses.html
+		 16.291 https://www.concordia.ca/faculty/alireza-nazemi.html
+
+query: 'department environment sustainability energy water'
+	BM25
+		 16.720 https://www.concordia.ca/ginacody/building-civil-environmental-eng/faculty.html?fpid=fuzhan-nasiri
+		 15.300 https://www.concordia.ca/artsci/research/loyola-sustainability/people.html
+		 13.172 https://www.concordia.ca/ginacody/building-civil-environmental-eng/faculty.html?fpid=khaled-galal
+		 13.114 https://www.concordia.ca/faculty/fuzhan-nasiri.html
+		 11.378 https://www.concordia.ca/faculty/chunjiang-an.html
+		 11.369 https://www.concordia.ca/academics/graduate/calendar/current/encs/engineering-courses.html
+		 10.993 https://www.concordia.ca/research/zero-energy-building/research/publications.html
+		  9.884 https://www.concordia.ca/artsci/loyola-college-diversity-sustainability/Sustainability-and-the-climate-crisis/current-topics.html
+		  9.182 https://www.concordia.ca/academics/undergraduate.html
+		  8.682 https://www.concordia.ca/ginacody/faculty/theodore-stathopoulos.html
+		  8.597 https://www.concordia.ca/faculty/theodore-stathopoulos.html
+		  8.328 https://www.concordia.ca/artsci/journalism/research/investigative-journalism/projects/tainted-water/water-coverage.html
+		  8.325 https://www.concordia.ca/artsci/journalism/research/journalisme-d-enquete/projets/eaux-contaminees/couverture-mediatique.html
+		  8.264 https://www.concordia.ca/cunews/main/stories/2016/03/21/world-water-day-govind-gopakumar-why-water-matters-worldwide.html?c=/ginacody/research/spnet/news
+		  8.263 https://www.concordia.ca/cunews/main/stories/2016/03/21/world-water-day-govind-gopakumar-why-water-matters-worldwide.html?c=/news/topic
+	TF-IDF
+		 37.565 https://www.concordia.ca/academics/graduate/calendar/current/encs/engineering-courses.html
+		 36.303 https://www.concordia.ca/ginacody/building-civil-environmental-eng/faculty.html?fpid=fuzhan-nasiri
+		 32.590 https://www.concordia.ca/artsci/research/loyola-sustainability/people.html
+		 29.197 https://www.concordia.ca/ginacody/faculty/theodore-stathopoulos.html
+		 27.343 https://www.concordia.ca/research/zero-energy-building/research/publications.html
+		 25.414 https://www.concordia.ca/faculty/theodore-stathopoulos.html
+		 25.351 https://www.concordia.ca/faculty/fuzhan-nasiri.html
+		 24.563 https://www.concordia.ca/ginacody/building-civil-environmental-eng/faculty.html?fpid=khaled-galal
+		 23.333 https://www.concordia.ca/faculty/chunjiang-an.html
+		 22.551 https://www.concordia.ca/academics/undergraduate.html
+		 18.818 https://www.concordia.ca/artsci/journalism/research/investigative-journalism/projects/tainted-water/water-coverage.html
+		 18.741 https://www.concordia.ca/artsci/journalism/research/journalisme-d-enquete/projets/eaux-contaminees/couverture-mediatique.html
+		 18.672 https://www.concordia.ca/artsci/loyola-college-diversity-sustainability/Sustainability-and-the-climate-crisis/current-topics.html
+		 16.888 https://www.concordia.ca/artsci/loyola-college-diversity-sustainability/programs/courses/SustainabilityMinorCourses.html
+		 16.291 https://www.concordia.ca/faculty/alireza-nazemi.html
+
+
+------------------------------------------------------------------------------------------------------------------------
+Challenge Queries
+------------------------------------------------------------------------------------------------------------------------
+query: 'water management sustainability Concordia'
+	BM25
+		 12.725 https://www.concordia.ca/faculty/rebecca-dziedzic.html
+		 12.115 https://www.concordia.ca/ginacody/building-civil-environmental-eng/research/construction-engineering-management/cem-graduated-students.html
+		 11.926 https://www.concordia.ca/ginacody/building-civil-environmental-eng/faculty.html?fpid=fuzhan-nasiri
+		 11.721 https://www.concordia.ca/ginacody/building-civil-environmental-eng/faculty.html?fpid=khaled-galal
+		 11.658 https://www.concordia.ca/faculty/fuzhan-nasiri.html
+		  8.328 https://www.concordia.ca/artsci/journalism/research/investigative-journalism/projects/tainted-water/water-coverage.html
+		  8.325 https://www.concordia.ca/artsci/journalism/research/journalisme-d-enquete/projets/eaux-contaminees/couverture-mediatique.html
+		  8.264 https://www.concordia.ca/cunews/main/stories/2016/03/21/world-water-day-govind-gopakumar-why-water-matters-worldwide.html?c=/ginacody/research/spnet/news
+		  8.263 https://www.concordia.ca/cunews/main/stories/2016/03/21/world-water-day-govind-gopakumar-why-water-matters-worldwide.html?c=/news/topic
+		  8.263 https://www.concordia.ca/cunews/main/stories/2016/03/21/world-water-day-govind-gopakumar-why-water-matters-worldwide.html?rootnav=news/stories
+		  8.203 https://www.concordia.ca/academics/graduate/calendar/current/encs/engineering-courses.html
+		  8.174 https://www.concordia.ca/cunews/main/stories/2013/06/12/refreshing-water-policy.html?c=/news/authors/tom-peacock
+		  8.169 https://www.concordia.ca/cunews/main/stories/2013/06/12/refreshing-water-policy.html?c=/news/topic
+		  8.169 https://www.concordia.ca/cunews/main/stories/2013/06/12/refreshing-water-policy.html
+		  8.164 https://www.concordia.ca/about/sustainability/sustainability-initiatives/water.html
+	TF-IDF
+		 26.545 https://www.concordia.ca/ginacody/building-civil-environmental-eng/faculty.html?fpid=fuzhan-nasiri
+		 26.044 https://www.concordia.ca/academics/graduate/calendar/current/encs/engineering-courses.html
+		 24.220 https://www.concordia.ca/faculty/rebecca-dziedzic.html
+		 23.181 https://www.concordia.ca/faculty/fuzhan-nasiri.html
+		 22.781 https://www.concordia.ca/ginacody/building-civil-environmental-eng/research/construction-engineering-management/cem-graduated-students.html
+		 22.537 https://www.concordia.ca/ginacody/building-civil-environmental-eng/faculty.html?fpid=khaled-galal
+		 18.818 https://www.concordia.ca/artsci/journalism/research/investigative-journalism/projects/tainted-water/water-coverage.html
+		 18.741 https://www.concordia.ca/artsci/journalism/research/journalisme-d-enquete/projets/eaux-contaminees/couverture-mediatique.html
+		 17.037 https://www.concordia.ca/artsci/research/loyola-sustainability/people.html
+		 16.742 https://www.concordia.ca/academics/undergraduate.html
+		 16.291 https://www.concordia.ca/faculty/alireza-nazemi.html
+		 16.291 https://www.concordia.ca/faculty.html?fpid=alireza-nazemi
+		 16.210 https://www.concordia.ca/cunews/main/stories/2016/03/21/world-water-day-govind-gopakumar-why-water-matters-worldwide.html?rootnav=news/stories
+		 16.210 https://www.concordia.ca/cunews/main/stories/2016/03/21/world-water-day-govind-gopakumar-why-water-matters-worldwide.html?c=/ginacody/research/spnet/news
+		 16.210 https://www.concordia.ca/cunews/main/stories/2016/03/21/world-water-day-govind-gopakumar-why-water-matters-worldwide.html?c=/news/topic
+
+query: 'Concordia COVID-19 faculty'
+	BM25
+		  6.495 https://www.concordia.ca/campus-life/safety/coronavirus/case.html
+		  6.430 https://www.concordia.ca/library/guides/COVID19/resources.html
+		  6.421 https://www.concordia.ca/research/aging/coronavirus/publications.html
+		  6.335 https://www.concordia.ca/coronavirus.html?utm_source=redirect&utm_campaign=covid19info
+		  6.286 https://www.concordia.ca/cunews/offices/provost/health/topics/mental-health/mental-health-covid-19.html?c=/health/topics/mental-health
+		  6.244 https://www.concordia.ca/campus-life/safety/coronavirus.html
+		  6.187 https://www.concordia.ca/cunews/main/stories/2020/05/19/how-concordia-is-archiving-its-web-material-related-to-covid-19.html?rootnav=news/stories
+		  6.136 https://www.concordia.ca/cunews/main/stories/2020/05/19/how-concordia-is-archiving-its-web-material-related-to-covid-19.html?c=/offices/archives/news
+		  6.121 https://www.concordia.ca/cunews/offices/vprgs/sgs/public-scholars-19/2020/04/14/micro-scale-technology-at-war-with-micro-scale-foe.html
+		  6.107 https://www.concordia.ca/cuevents/offices/vprgs/perform/2020/10/09/special-perform-colloquium--research-exploring-aging-behaviors-confinement-and-dating.html?c=research/perform
+		  6.072 https://www.concordia.ca/coronavirus/return-to-campus/access.html
+		  6.070 https://www.concordia.ca/cunews/artsci/2020/04/22/how-the-covid-19-crisis-transformed-a-concordia-health-course.html?c=artsci/applied-human-sciences/news
+		  6.068 https://www.concordia.ca/news/stories/2020/09/15/global-covid-19-study-finds-a-strong-link-between-health-messaging-and-behaviour.html?c=/coronavirus
+		  6.052 https://www.concordia.ca/cunews/artsci/2020/04/22/how-the-covid-19-crisis-transformed-a-concordia-health-course.html?c=/artsci/news
+		  6.029 https://www.concordia.ca/cuevents/offices/vprgs/perform/2020/10/09/special-perform-colloquium--research-exploring-aging-behaviors-confinement-and-dating.html
+	TF-IDF
+		 11.738 https://www.concordia.ca/campus-life/safety/coronavirus.html
+		 11.634 https://www.concordia.ca/campus-life/safety/coronavirus/case.html
+		 11.051 https://www.concordia.ca/sgs/covid-19.html
+		 11.051 https://www.concordia.ca/library/guides/COVID19/resources.html
+		 10.132 https://www.concordia.ca/coronavirus.html?utm_source=redirect&utm_campaign=covid19info
+		  9.741 https://www.concordia.ca/cunews/offices/vprgs/sgs/public-scholars-19/2020/04/14/micro-scale-technology-at-war-with-micro-scale-foe.html
+		  9.741 https://www.concordia.ca/research/lifestyle-addiction/news/newsletter.html
+		  9.741 https://www.concordia.ca/cunews/offices/provost/health/topics/mental-health/mental-health-covid-19.html?c=/health/topics/mental-health
+		  9.522 https://www.concordia.ca/cunews/main/stories/2020/04/22/this-earth-day-6-concordians-discuss-the-question-of-sustainability-under-covid-19.html?rootnav=news/stories
+		  9.522 https://www.concordia.ca/cunews/main/stories/2020/04/22/this-earth-day-6-concordians-discuss-the-question-of-sustainability-under-covid-19.html?c=artsci/loyola-college-diversity-sustainability/news/archive
+		  9.522 https://www.concordia.ca/cunews/main/stories/2020/04/22/this-earth-day-6-concordians-discuss-the-question-of-sustainability-under-covid-19.html?c=artsci/loyola-college-diversity-sustainability/news
+		  9.522 https://www.concordia.ca/cunews/main/stories/2020/04/22/this-earth-day-6-concordians-discuss-the-question-of-sustainability-under-covid-19.html?c=/artsci/news
+		  9.522 https://www.concordia.ca/cunews/main/stories/2020/05/19/how-concordia-is-archiving-its-web-material-related-to-covid-19.html?rootnav=news/stories
+		  9.522 https://www.concordia.ca/cunews/main/stories/2020/05/19/how-concordia-is-archiving-its-web-material-related-to-covid-19.html?c=/offices/archives/news
+		  9.522 https://www.concordia.ca/cunews/main/stories/2020/04/22/this-earth-day-6-concordians-discuss-the-question-of-sustainability-under-covid-19.html?c=/artsci/biology/news/archive
+
+query: 'SARS-CoV Concordia faculty'
+	BM25
+		 12.103 https://www.concordia.ca/library/guides/COVID19/general-information.html
+		  0.171 https://www.concordia.ca/it/services.html
+		  0.165 https://www.concordia.ca/artsci/cissc/phd-humanities/research.html
+		  0.165 https://www.concordia.ca/sgs/programs/individualized/research-currents.html
+		  0.161 https://www.concordia.ca/academics/graduate.html
+		  0.160 https://www.concordia.ca/health/review/appendices.html
+		  0.160 https://www.concordia.ca/cunews/artsci/2019/03/dean-s-awards-for-excellence---call-for-nominations.html?c=/artsci/news
+		  0.160 https://www.concordia.ca/campus-life/safety/training.html
+		  0.160 https://www.concordia.ca/academics/undergraduate.html
+		  0.159 https://www.concordia.ca/artsci/about/leadership/administrative-units.html
+		  0.159 https://www.concordia.ca/artsci/about/leadership/office-dean.html
+		  0.158 https://www.concordia.ca/cunews/main/stories/2019/08/05/the-faculty-of-arts-and-science-appoints-two-new-associate-deans.html?c=/artsci/news
+		  0.158 https://www.concordia.ca/artsci/about/leadership/faculty-council.html
+		  0.157 https://www.concordia.ca/cunews/main/stories/2014/03/19/40-women-facultycometogethertobrainstormsolutions.html?c=/artsci/news
+		  0.157 https://www.concordia.ca/cunews/main/stories/2019/08/05/the-faculty-of-arts-and-science-appoints-two-new-associate-deans.html?c=/artsci/health-kinesiology-physiology/news
+	TF-IDF
+		 10.842 https://www.concordia.ca/library/guides/COVID19/general-information.html
+		  0.434 https://www.concordia.ca/academics/undergraduate.html
+		  0.424 https://www.concordia.ca/academics/graduate.html
+		  0.385 https://www.concordia.ca/it/services.html
+		  0.373 https://www.concordia.ca/artsci/cissc/phd-humanities/research.html
+		  0.372 https://www.concordia.ca/sgs/programs/individualized/research-currents.html
+		  0.370 https://www.concordia.ca/sgs/awards-funding/other-awards/awards-directory.html
+		  0.368 https://www.concordia.ca/students/gradproskills/about/catalogue.html
+		  0.331 https://www.concordia.ca/cunews/artsci/2019/03/dean-s-awards-for-excellence---call-for-nominations.html?c=/artsci/news
+		  0.331 https://www.concordia.ca/campus-life/safety/training.html
+		  0.329 https://www.concordia.ca/provost/initiatives/climate-review-english-dept/report.html
+		  0.325 https://www.concordia.ca/health/review/appendices.html
+		  0.308 https://www.concordia.ca/admissions/graduate/programs-with-additional-requirements.html
+		  0.299 https://www.concordia.ca/artsci/math-stats/services/advising.html
+		  0.294 https://www.concordia.ca/cunews/main/stories/2016/06/08/planning-wraps-up-under-phase-2-of-concordias-strategic-directio.html?c=/artsci/news
+
