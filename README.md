@@ -1,6 +1,6 @@
 COMP 479 - Information Retrieval and Web Search
 
-concordia.ca webpage crawler, index builder, and queryer
+concordia webpage crawler, index builder, and queryer
 
 Searches for pages related to covid and sustainability
 
