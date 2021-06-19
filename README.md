@@ -1,4 +1,4 @@
-COMP 479 - Information Retrieval and Web Search
+Information Retrieval and Web Search
 
 Concordia webpage crawler, index builder, and queryer
 
